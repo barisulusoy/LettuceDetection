@@ -1,0 +1,5 @@
+classes = 1
+train = lettuce_data/lettuce_training.txt
+valid = lettuce_data/lettuce_testing.txt
+names = lettuce_data/lettuce.names
+backup = backup
