@@ -16,4 +16,4 @@ algılayacaktır. Bilgisayarınızda bulunan işletim sistemine tıklanır ve in
 <img align="center" src="img1.png">
 Yapay zeka alanına giriş yapmak ve "öğrenen" uygulamalar geliştirmek istiyorsanız derin öğrenme 
 yöntemlerini öğrenmek için Udemy üzerinde açtığım kursu takip edebilirsiniz. "Derin Öğrenmeye Giriş" kursu temelden ileri seviyeye kadar teorik anlatım ve pratik uygulamaları içermektedir. Bu dersi bitirdiğinizde, derin öğrenmenin temellerini, yapay sinir ağı modelleri oluşturma ve geliştirme adımlarını ve başarılı yapay öğrenme projelerini nasıl gerçekleştirebileceğinizi öğreneceksiniz.
-
+<img align="center" src="img2.png">
