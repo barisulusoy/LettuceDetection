@@ -1,6 +1,6 @@
 ## YOLO-DARKNET İLE MARUL TESPİTİ
 
-Yolo algoritması kullanılarak nesne tespit işlemi gerçekleştirilecek. Tüm işlemler 
+Yolo algoritması kullanılarak marul tespit işlemi gerçekleştirilmiştir. Tüm işlemler 
 sırasıyla aşağıda adımlar halinde gösterilmiştir.
 
 ### ADIM-1: "Git Bash" Kurulumu
