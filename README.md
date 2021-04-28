@@ -219,7 +219,7 @@ olacaktır ve bu dosya class ismini barındıracaktır. İkinci dosyanın ismi l
 dosya içerisinde modelimiz ile ilgili bilgiler tutulacaktır. Dosyaların isimlerini kaydetmeden önce 
 txt dosyası açınız. Daha sonra dosya içeriğini düzenleyip dosya ismini kaydediniz.
 
-<img align="left" src="img/img40.png"><img align="right" src="img/img41.png">
+<img align="center" src="img/img40.png"><img align="center" src="img/img41.png">
 
 Son olarak lettuce_data klasörümüz aşağıdaki gibi olacaktır.
 
